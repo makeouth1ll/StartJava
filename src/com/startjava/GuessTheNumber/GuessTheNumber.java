@@ -1,4 +1,4 @@
-package com.startjava.GuessTheNumber;
+
 
 import java.util.Scanner;
 
